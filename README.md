@@ -54,4 +54,4 @@ This repository includes all major NLP concepts such as:
 Use the following command:
 
 ```bash
-git clone https://github.com/your-username/NLP-for-Machine-Learning-Krish-Naik.git
+git clone https://github.com/ravixpanchal/NLP-for-Machine-Learning-Krish-Naik.git
